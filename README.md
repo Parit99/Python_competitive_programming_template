@@ -1,4 +1,6 @@
-# Python_competitive_programming_template
+# Python_For_competitive_programming
+
+#Template
 
 Here I will update the template as time progresses till time the best template made by me is posted.
 
